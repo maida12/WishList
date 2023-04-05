@@ -1,0 +1,35 @@
+.main{
+ background-color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+ 
+}
+#newItem{
+font: larger;
+background-color: aqua;
+}
+#newPriority
+{
+  font: larger;
+background-color: aqua;
+
+}
+#lbl1{
+  
+  font-size: larger;
+  
+}
+#lbl2{
+  margin-left: 20px;
+  font-size: larger;
+  
+}
+#btn1{
+margin-left: 20px;
+font-size: larger;
+
+width: 100px;
+}

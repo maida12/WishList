@@ -2,7 +2,6 @@
 ### The user should be able to:
 ● Add an item to the list.\
 ● Remove an item from the list.\
-● Set priority for each item .\
+● Set priority for each item.\
 ● Update priority for each item.\
-● Move any item to the top of the list.\
-
+● Move any item to the top of the list.
